@@ -8,7 +8,7 @@ smart contracts security review
 [Attacks on Ethereum Smart Contracts video](https://www.youtube.com/watch?v=jDbQ7roq6Qg)  
 [solidity-anti-patterns-fun-with-inheritance-dag-abuse](https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/)  
 
-### audit
+audit  
 [Contract Safety and Security Checklist](https://www.kingoftheether.com/contract-safety-checklist.html)  
 [The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)  
 
